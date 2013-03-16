@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/">
+    <file>save.png</file>
+    <file>note.png</file>
+    <file>black-dragonfly.png</file>
+    <file>coded.png</file>
+    <file>exit.png</file>
+    <file>folder.png</file>
+  </qresource>
+</RCC>

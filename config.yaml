@@ -1,0 +1,41 @@
+color:
+  background: ''
+  endofline: ''
+  enoflinefolding: ''
+  eof: ''
+  foreground: ''
+  tab: ''
+date:
+  date1: '%y/%M/%d'
+  date2: '%h:%m:%s'
+encoding:
+  current encoding: system native
+  possible encodings:
+  - utf8
+  - cp1251
+externalapps:
+  application1: ''
+  application2: ''
+font:
+  memo:
+    Font: ''
+    default: true
+  tree:
+    Font: ''
+    default: true
+memo:
+  open notes read only mode: false
+  root: ''
+  sync file name and title: true
+memoview:
+  disable save dialog: false
+  keep cursor position: false
+  showtitle: true
+  tabstop: 8
+root: C:\tombo_reinc_test_root_folder
+security:
+  password timeout: 5
+  use random filename: false
+toppage:
+  default note: tombo://default/
+  open item last selected: false
